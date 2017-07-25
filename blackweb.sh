@@ -10,42 +10,47 @@
 ### END INIT INFO
 # by:	             maravento.com and novatoz.com
 
+# DATE
+date=`date +%d/%m/%Y" "%H:%M:%S`
+
 # PATH
 route=/etc/acl
 bl=~/bl
 
 # DEL OLD REPOSITORY
 if [ -d $bl ]; then rm -rf $bl; fi
+
 # CREATE PATH
 if [ ! -d $route ]; then mkdir -p $route; fi
 
 # DOWNLOAD
-echo "Download Blackweb..."
-svn export "https://github.com/maravento/blackweb/trunk/bl"
+clear
+echo
+echo "Download Blackweb ACL..."
+svn export "https://github.com/maravento/blackweb/trunk/bl" >/dev/null 2>&1
 cd $bl
 cat blackweb.tar.gz* | tar xzf -
 echo "OK"
-
+echo
 echo "Checking Sum..."
 a=$(md5sum blackweb.txt | awk '{print $1}')
 b=$(cat blackweb.md5 | awk '{print $1}')
 	if [ "$a" = "$b" ]
 	then 
 		echo "Sum Matches"
-		cp -f  blackweb.txt $route >/dev/null 2>&1
 		# ADD OWN LIST
-		#sed '/^$/d; / *#/d' /path/blackweb_own.txt >> $route/blackweb.txt
+		#sed '/^$/d; / *#/d' /path/blackweb_own.txt >> blackweb.txt
+		cp -f  blackweb.txt $route >/dev/null 2>&1
 		echo "OK"
-		date=`date +%d/%m/%Y" "%H:%M:%S`
 		echo "Blackweb for Squid: Done $date" >> /var/log/syslog
 		cd
 		rm -rf $bl
 		echo "Done"
 	else
-		echo "Bad Sum. Abort"
-		date=`date +%d/%m/%Y" "%H:%M:%S`
+		echo "Bad Sum"
 		echo "Blackweb for Squid: Abort $date Check Internet Connection" >> /var/log/syslog
 		cd
 		rm -rf $bl
+		echo "Abort"
 		exit
 fi

@@ -18396,6 +18396,7 @@
 .v9.nonxt7.googlevideo.com
 .v9.nonxt8.c.android.clients.google.com
 .v9.nonxt8.googlevideo.com
+.v6exp3-ds.metric.ipv6test.net
 .ve.2mdn.net
 .video-analytics.l.google.com
 .video.google.cn
@@ -26057,7 +26058,7 @@
 .zion.edu
 .zmi.edu
 #
-# BANKS
+# BANKS-PAY
 .bancodebogota.com
 .bancodebogota.com.co
 .bancoldex.com
@@ -26078,6 +26079,7 @@
 .colpatria.com
 .comprasypagospse.com
 .contenido.grupobancolombia.com
+.connect.secure.wellsfargo.com
 .daviviendapaypal.com
 .e-bbva.com.co
 .e-bbvanetcash.com.co
@@ -26114,6 +26116,8 @@
 .t.paypal.com
 .valoresbancolombia.com
 .web.bancodebogota.com.co
+.wellsfargo.com
+.Wellsfargo.com
 .zonapagos.com
 #
 # ONG
@@ -26951,6 +26955,7 @@
 .get.adobe.com
 .ghostery.com
 .gist.github.com
+.git.io
 .github.com
 .githubusercontent.com
 .glarysoft.com
@@ -27066,7 +27071,6 @@
 .rcn.net
 .rcnradio.com
 .realtime.services.disqus.com
-.reddit.com
 .redhat.com
 .redirect.disqus.com
 .redirect.hp.com
