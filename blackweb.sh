@@ -1,14 +1,15 @@
 #!/bin/bash
 ### BEGIN INIT INFO
-# Provides:          blackweb
-# Required-Start:    $remote_fs $syslog
-# Required-Stop:     $remote_fs $syslog
+# Provides:	     blackweb
+# Required-Start:    $local_fs $remote_fs $network $syslog $named
+# Required-Stop:     $local_fs $remote_fs $network $syslog $named
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
-# Short-Description: Start daemon at boot time
-# Description:       blackweb for Squid
+# Short-Description: starts blackweb
+# Description:       starts blackweb using start-stop-daemon
 ### END INIT INFO
-# by:	             maravento.com and novatoz.com
+
+# by:	maravento.com and novatoz.com
 
 # DATE
 date=`date +%d/%m/%Y" "%H:%M:%S`
