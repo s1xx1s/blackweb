@@ -79,6 +79,7 @@
 .aichi.jp
 .aig
 .aigo
+.air
 .airbus
 .airforce
 .airtel

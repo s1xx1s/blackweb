@@ -154,6 +154,7 @@
 .apps.google.com
 .appspot.com
 .appspot.l.google.com
+.appspot-preview.l.google.com
 .art-project-media.appspot.com
 .aspmx.l.google.com
 .atmospheretokyo.withgoogle.com
@@ -876,19 +877,19 @@
 .history.l.google.com
 .html5rocks.com
 .i18napis.appspot.com
+.i1-v6exp3-v4.metric.gstatic.com
 .i1.ytimg.com
 .i2.ds.ipv6-exp.l.google.com
+.i2-v6exp3-v4.metric.gstatic.com
 .i2.ytimg.com
 .i3.ytimg.com
 .i4.ytimg.com
-.i1-v6exp3-v4.metric.gstatic.com
-.i2-v6exp3-v4.metric.gstatic.com
-.if-v6exp3-v4.metric.gstatic.com
 .id.google.cn
 .id.google.com
 .id.google.com.co
 .id.google.com.hk
 .id.l.google.com
+.if-v6exp3-v4.metric.gstatic.com
 .ig.gmodules.com
 .igoogle.com
 .igoogledeveloper.blogspot.com
@@ -1281,7 +1282,6 @@
 .m.youtube.com
 .netlogstatic.com
 .news.dartlang.org
-.appspot-preview.l.google.com
 .news.google.be
 .news.google.ca
 .news.google.cn
@@ -8458,6 +8458,7 @@
 .r1---sn-hgn7zn7r.googlevideo.com
 .r1---sn-hgn7zn7s.googlevideo.com
 .r1---sn-hgn7zn7z.googlevideo.com
+.r1---sn-hp57kn6e.googlevideo.com
 .r1---sn-hp57kn76.googlevideo.com
 .r1.sn-hp57kn76.gvt1.com
 .r1.sn-hp57kn7d.c.pack.google.com
@@ -10123,6 +10124,7 @@
 .r2---sn-hgn7zn7r.googlevideo.com
 .r2---sn-hgn7zn7s.googlevideo.com
 .r2---sn-hgn7zn7z.googlevideo.com
+.r2---sn-hp57kn6e.googlevideo.com
 .r2---sn-hp57kn76.googlevideo.com
 .r2.sn-hp57kn76.gvt1.com
 .r2.sn-hp57kn7d.c.pack.google.com
@@ -11157,6 +11159,7 @@
 .r3---sn-hgn7zn7r.googlevideo.com
 .r3---sn-hgn7zn7s.googlevideo.com
 .r3---sn-hgn7zn7z.googlevideo.com
+.r3---sn-hp57kn6e.googlevideo.com
 .r3---sn-hp57kn76.googlevideo.com
 .r3.sn-hp57kn76.gvt1.com
 .r3.sn-hp57kn7d.c.pack.google.com
@@ -12182,6 +12185,7 @@
 .r4---sn-hgn7zn7r.googlevideo.com
 .r4---sn-hgn7zn7s.googlevideo.com
 .r4---sn-hgn7zn7z.googlevideo.com
+.r4---sn-hp57kn6e.googlevideo.com
 .r4---sn-hp57kn76.googlevideo.com
 .r4.sn-hp57kn76.gvt1.com
 .r4.sn-hp57kn7d.c.pack.google.com
@@ -13190,6 +13194,7 @@
 .r5---sn-hgn7zn7r.googlevideo.com
 .r5---sn-hgn7zn7s.googlevideo.com
 .r5---sn-hgn7zn7z.googlevideo.com
+.r5---sn-hp57kn6e.googlevideo.com
 .r5---sn-hp57kn76.googlevideo.com
 .r5.sn-hp57kn76.gvt1.com
 .r5.sn-hp57kn7d.c.pack.google.com
@@ -14192,6 +14197,7 @@
 .r6---sn-hgn7zn7r.googlevideo.com
 .r6---sn-hgn7zn7s.googlevideo.com
 .r6---sn-hgn7zn7z.googlevideo.com
+.r6---sn-hp57kn6e.googlevideo.com
 .r6---sn-hp57kn76.googlevideo.com
 .r6.sn-hp57kn76.gvt1.com
 .r6.sn-hp57kn7d.c.pack.google.com
@@ -18204,6 +18210,7 @@
 .v6.cache7.googlevideo.com
 .v6.cache8.c.bigcache.googleapis.com
 .v6.cache8.googlevideo.com
+.v6exp3-ds.metric.ipv6test.net
 .v6.lscache1.c.android.clients.google.com
 .v6.lscache1.c.bigcache.googleapis.com
 .v6.lscache1.googlevideo.com
@@ -18396,7 +18403,6 @@
 .v9.nonxt7.googlevideo.com
 .v9.nonxt8.c.android.clients.google.com
 .v9.nonxt8.googlevideo.com
-.v6exp3-ds.metric.ipv6test.net
 .ve.2mdn.net
 .video-analytics.l.google.com
 .video.google.cn
@@ -21866,6 +21872,7 @@
 .burnley.gov.uk
 .business.gov
 .business.govt.nz
+.buscadordeempleo.gov.co
 .bvirtual.bancoagrario.gov.co
 .cabinetoffice.gov.uk
 .cabq.gov
@@ -25495,6 +25502,7 @@
 .unac.edu.co
 .unach.edu.ec
 .unad.edu.co
+.unadvirtual.org
 .una.edu
 .unaj.edu.ar
 .unal.edu.co
@@ -26195,6 +26203,7 @@
 .gateway4.e-collect.com
 .gateway5.e-collect.com
 .gateway6.e-collect.com
+.girosyfinanzas.com
 .golden1.com
 .grupobancolombia.com
 .guarantygroup.com
@@ -26231,6 +26240,7 @@
 .pagosimple.com
 .pagosonline.com
 .parknationalbank.com
+.payment-solutions.com
 .paypal.com
 .PayPal.com
 .pcbancorp.com
@@ -26283,8 +26293,25 @@
 .websterbank.com
 .wellsfargo.com
 .Wellsfargo.com
+.westernunion.ca
+.westernunion.com
+.westernunion.com.au
+.westernunion.com.sg
+.westernunion.co.nz
+.westernunion.co.uk
+.westernunion.de
+.WesternUnion.de
+.westernunion.fr
+.westernunion.gr
+.westernunion.ru
 .whitneybank.com
 .wintrustfinancial.com
+.wunetspendprepaid.com
+.mafexchange.wu.com
+.wu.com
+.colombia.westernunion.com
+.mywu.com
+.student.globalpay.wu.com
 .zionsbank.com
 .zonapagos.com
 #
@@ -27123,6 +27150,7 @@
 .hosts-file.net
 .hp.com
 .hsbnoticias.com
+.http2.mlstatic.com
 .icons.duckduckgo.com
 .i.creativecommons.org
 .idsync.rlcdn.com
@@ -27371,6 +27399,7 @@
 .websmultimedia.com
 .web.whatsapp.com
 .wetransfer.com
+.wildcard.mlstatic.com.edgekey.net
 .whatbrowser.org
 .whatismyipaddress.com
 .whatsapp.com
