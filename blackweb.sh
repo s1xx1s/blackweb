@@ -1,12 +1,14 @@
 #!/bin/bash
 ### BEGIN INIT INFO
-# Provides:	     blackweb
-# Required-Start:    $local_fs $remote_fs $network $syslog $named
-# Required-Stop:     $local_fs $remote_fs $network $syslog $named
+# Provides:          blackweb
+# Required-Start:    $local_fs $remote_fs $network
+# Required-Stop:     $local_fs $remote_fs $network
+# Should-Start:      $named
+# Should-Stop:       $named
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
-# Short-Description: starts blackweb
-# Description:       starts blackweb using start-stop-daemon
+# Short-Description: Start daemon at boot time
+# Description:       Enable service provided by daemon
 ### END INIT INFO
 
 # by:	maravento.com and novatoz.com
@@ -28,7 +30,7 @@ if [ ! -d $route ]; then mkdir -p $route; fi
 clear
 echo
 echo "Download Blackweb ACL..."
-svn export "https://github.com/maravento/blackweb/trunk/bl" >/dev/null 2>&1
+svn export "https://github.com/maravento/blackweb/trunk/update/bl" >/dev/null 2>&1
 cd $bl
 cat blackweb.tar.gz* | tar xzf -
 echo "OK"
