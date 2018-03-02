@@ -48,12 +48,14 @@ b=$(cat blackweb.md5 | awk '{print $1}')
 		echo "Blackweb for Squid: Done $date" >> /var/log/syslog
 		cd
 		rm -rf $bl
+        echo
 		echo "Done"
 	else
 		echo "Bad Sum"
 		echo "Blackweb for Squid: Abort $date Check Internet Connection" >> /var/log/syslog
 		cd
 		rm -rf $bl
+        echo
 		echo "Abort"
 		exit
 fi
