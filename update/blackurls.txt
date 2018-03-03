@@ -682,6 +682,7 @@
 .readability.com
 .re-direcciona.me
 .reducelnk.com
+.savefrom.net
 .shink.in
 .shorten.me
 .shorter-in.cf
@@ -711,6 +712,7 @@
 .xtendadvert.com
 .yourls.org
 .youtu.be
+.ssyoutube.com
 .zbbx.me
 #
 # MALWARE
