@@ -18,7 +18,7 @@ date=`date +%d/%m/%Y" "%H:%M:%S`
 
 # PATH
 route=/etc/acl
-bl=~/bl
+bl=$(pwd)/bl
 
 # DEL OLD REPOSITORY
 if [ -d $bl ]; then rm -rf $bl; fi
