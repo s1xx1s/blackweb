@@ -30,7 +30,7 @@ if [ ! -d $route ]; then mkdir -p $route; fi
 clear
 echo
 echo "Download Blackweb ACL..."
-svn export "https://github.com/maravento/blackweb/trunk/update/bl" >/dev/null 2>&1
+svn export "https://github.com/maravento/blackweb/trunk/bwupdate/bl" >/dev/null 2>&1
 cd $bl
 cat blackweb.tar.gz* | tar xzf -
 echo "OK"
