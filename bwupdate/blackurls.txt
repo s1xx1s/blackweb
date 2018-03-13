@@ -882,6 +882,7 @@
 .studivz.net
 .stumbleupon.com
 .tagged.com
+.taboola.com
 .taringa.net
 .telegram.org
 .telly.com
@@ -894,6 +895,7 @@
 .viadeo.com
 .viber.com
 .vimeo.com
+.viglink.com
 .vine.co
 .vk.com
 .wayn.com
@@ -954,8 +956,6 @@
 .vhost.sourceforge.net
 .via.intercom.io
 .videoschistososdivertidos.com
-.viglink.com
-.vk.com
 .wanderburst.com
 .wibbitz.com
 .yellowbooster.info

@@ -18,10 +18,10 @@ date=`date +%d/%m/%Y" "%H:%M:%S`
 
 # PATH
 route=/etc/acl
-bl=$(pwd)/bl
+bld=$(pwd)/bl
 
 # DEL OLD REPOSITORY
-if [ -d $bl ]; then rm -rf $bl; fi
+if [ -d $bld ]; then rm -rf $bld; fi
 
 # CREATE PATH
 if [ ! -d $route ]; then mkdir -p $route; fi
@@ -31,7 +31,7 @@ clear
 echo
 echo "Download Blackweb ACL..."
 svn export "https://github.com/maravento/blackweb/trunk/bwupdate/bl" >/dev/null 2>&1
-cd $bl
+cd $bld
 cat blackweb.tar.gz* | tar xzf -
 echo "OK"
 echo
@@ -47,14 +47,14 @@ b=$(cat blackweb.md5 | awk '{print $1}')
 		echo "OK"
 		echo "Blackweb for Squid: Done $date" >> /var/log/syslog
 		cd
-		rm -rf $bl
+		rm -rf $bld
         echo
 		echo "Done"
 	else
 		echo "Bad Sum"
 		echo "Blackweb for Squid: Abort $date Check Internet Connection" >> /var/log/syslog
 		cd
-		rm -rf $bl
+		rm -rf $bld
         echo
 		echo "Abort"
 		exit
