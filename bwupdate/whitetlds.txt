@@ -1,4 +1,3 @@
-# WHITETLD
 .aaa
 .aarp
 .abarth
@@ -57,7 +56,6 @@
 .ad.jp
 .adm.br
 .ads
-.adult
 .adv.br
 .ae
 .aeg
@@ -197,7 +195,6 @@
 .be
 .beats
 .beauty
-.beer
 .bel.tr
 .bentley
 .berlin
@@ -2127,14 +2124,12 @@
 .pn
 .pnc
 .pohl
-.poker
 .pol.dz
 .pol.ht
 .police.uk
 .politie
 .poltava.ua
 .pol.tr
-.porn
 .post
 .poznan.pl
 .ppg.br
@@ -2325,8 +2320,6 @@
 .ses
 .seven
 .sew
-.sex
-.sexy
 .sfr
 .sg
 .sh
@@ -2599,7 +2592,6 @@
 .vlaanderen
 .vn
 .vn.ua
-.vodka
 .volkswagen
 .volvo
 .vote
@@ -2640,7 +2632,6 @@
 .weibo
 .weir
 .wf
-.whoswho
 .wien
 .wiki
 .williamhill
@@ -2834,7 +2825,6 @@
 .xn--zfr164b
 .xperia
 .x.se
-.xxx
 .xyz
 .xz.cn
 .yachts

@@ -41747,6 +41747,7 @@
 .diq.wikipedia.org
 .download.wikimedia.org
 .download.wikipedia.org
+.dnd.ca
 .dsb.wikipedia.org
 .dumps.wikimedia.org
 .dv.wikipedia.org

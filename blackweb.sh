@@ -13,12 +13,10 @@
 
 # by:	maravento.com and novatoz.com
 
-# DATE
-date=`date +%d/%m/%Y" "%H:%M:%S`
-
-# PATH
+# VARIABLES
 route=/etc/acl
 bld=$(pwd)/bl
+date=`date +%d/%m/%Y" "%H:%M:%S`
 
 # DEL OLD REPOSITORY
 if [ -d $bld ]; then rm -rf $bld; fi
@@ -39,23 +37,23 @@ echo "Checking Sum..."
 a=$(md5sum blackweb.txt | awk '{print $1}')
 b=$(cat blackweb.md5 | awk '{print $1}')
 	if [ "$a" = "$b" ]
-	then 
+	then
 		echo "Sum Matches"
 		# ADD OWN LIST
 		#sed '/^$/d; / *#/d' /path/blackweb_own.txt >> blackweb.txt
-		cp -f  blackweb.txt $route >/dev/null 2>&1
+		cp -f  blackweb.txt $route/blackweb.txt >/dev/null 2>&1
 		echo "OK"
 		echo "Blackweb for Squid: Done $date" >> /var/log/syslog
 		cd
 		rm -rf $bld
-        echo
+		echo
 		echo "Done"
 	else
 		echo "Bad Sum"
 		echo "Blackweb for Squid: Abort $date Check Internet Connection" >> /var/log/syslog
 		cd
 		rm -rf $bld
-        echo
+		echo
 		echo "Abort"
 		exit
 fi
