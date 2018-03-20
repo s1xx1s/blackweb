@@ -483,6 +483,7 @@
 .damnserver.com
 .ddnsking.com
 .ddns.me
+.ddns.me.uk
 .ddns.net
 .ditchyourip.com
 .dnsfor.me
@@ -536,6 +537,7 @@
 .mlbfan.org
 .mmafan.biz
 .myactivedirectory.com
+.myddns.me
 .mydissent.net
 .myeffect.net
 .myftp.biz
@@ -556,6 +558,7 @@
 .no-ip.co.uk
 .no-ip.info
 .noip.me
+.no-ip.me
 .no-ip.net
 .no-ip.org
 .noip.us
