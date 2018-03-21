@@ -483,7 +483,6 @@
 .damnserver.com
 .ddnsking.com
 .ddns.me
-.ddns.me.uk
 .ddns.net
 .ditchyourip.com
 .dnsfor.me
