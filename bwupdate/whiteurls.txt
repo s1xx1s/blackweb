@@ -53766,6 +53766,7 @@
 .portabilidad.coosalud.com
 .portalpagos.claro.com.co
 .porvenir.com.co
+.m.porvenir.com.co
 .ppa.launchpad.net
 .prensarural.org
 .prezi.com

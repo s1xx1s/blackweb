@@ -994,10 +994,12 @@
 .btscene2.com
 .cnet.com
 .compartinga.com
+.eazel.com
 .elitetorrent.biz
 .epictorrents.com
 .eztv.ag
 .filehippo.com
+.fosshub.com
 .freakshare.com
 .freewarefiles.com
 .gamestorrents.to
@@ -1006,15 +1008,21 @@
 .intercambiosvirtuales.org
 .intercambiosvirtuales.pro
 .majorgeeks.com
+.malavida.com
 .mediafire.com
+.mega.nz
+.mp3.es
+.ninite.com
 .popcorntime.sh
 .portableapps.com
+.portalprogramas.com
 .rapidshare.com
 .rarbg.to
 .rutracker.org
 .soft32.com
 .softonic.com
 .softpedia.com
+.soundcloud.com
 .sourceforge.net
 .thepiratebay3.org
 .toorgle.com
@@ -1026,8 +1034,6 @@
 .uploadstation.com
 .uptodown.com
 .wupload.com
-.mega.nz
-.soundcloud.com
 #
 # VARIOUS
 .adkmob.com
