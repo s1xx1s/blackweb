@@ -41136,6 +41136,7 @@
 .agenciapublicadeempleo.sena.edu.co
 .aldea.cecar.edu.co
 .areandina.edu.co
+.artemisa.unbosque.edu.co
 .atec.edu.co
 .aulavirtual.cecar.edu.co
 .autodiscover.sena.edu.co
@@ -41145,6 +41146,7 @@
 .bellasartesmed.edu.co
 .biblioteca.unac.edu.co
 .campus0b.unad.edu.co
+.campus.unbosque.edu.co
 .casarray.sena.edu.co
 .cas.cecar.edu.co
 .ccav.edu.co
@@ -41203,10 +41205,12 @@
 .esmic.edu.co
 .esumer.edu.co
 .expwye.sena.edu.co
+.ezproxy.unbosque.edu.co
 .faba.edu.co
 .fadp.edu.co
 .fesc.edu.co
 .fessanjose.edu.co
+.finanzas.unbosque.edu.co
 .fitecvirtual.edu.co
 .fmm.edu.co
 .fuac.edu.co
@@ -41276,6 +41280,7 @@
 .polcolan.edu.co
 .policia.edu.co
 .politecnicojic.edu.co
+.portalcautivo.unbosque.edu.co
 .psb.edu.co
 .puj.edu.co
 .remington.edu.co
@@ -41288,6 +41293,7 @@
 .sena.edu.co
 .senasofiaplus.edu.co
 .senavirtual.edu.co
+.talentohumano.unbosque.edu.co
 .taller5.edu.co
 .tdea.edu.co
 .tecnar.edu.co
@@ -41313,6 +41319,7 @@
 .udes.edu.co
 .udi.edu.co
 .udistrital.edu.co
+.uelbosque.edu.co
 .uexternado.edu.co
 .ufps.edu.co
 .uis.edu.co
