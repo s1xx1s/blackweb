@@ -791,6 +791,7 @@
 .22find.com
 .2s5m19yk.ru
 .aartemis.com
+.agkn.com
 .atributos.duckdns.org
 .awesomehp.com
 .bws3v7zh.ru
@@ -907,6 +908,7 @@
 .foursquare.com
 .funnyordie.com
 .gaiaonline.com
+.googlevideo.com
 .groovesharks.org
 .habbo.com
 .hi5.com
@@ -1041,13 +1043,14 @@
 # VARIOUS
 .adkmob.com
 .argstudio.com
-.avast.com
 .avidly.com
 .batidoraporno.com
 .bellsyscdn.com
 .bl-1.com
 .buud.co
 .chartbeast.com
+.chartbeat.com
+.chartbeat.net
 .cinecalidad.com
 .cinecalidad.to
 .cloudmobi.net
@@ -1067,7 +1070,9 @@
 .gamediversions.com
 .gameloft.com
 .ganadineroconencuestas.com
+.garenanow.com
 .glanacion.com
+.glpals.com
 .googlezip.net
 .haloapps.com
 .hsms06.com
@@ -1098,6 +1103,7 @@
 .player.ooyala.com
 .poketraff.com
 .portalimageneschulas.com
+.qq.com
 .redbull.tv
 .rjmetrics.com
 .sex.hu
@@ -1105,7 +1111,6 @@
 .smartadserver.com
 .snappea.com
 .snnd.co
-.static.chartbeat.com
 .taboola.com
 .tubemogul.com
 .ugamezone.com
@@ -1127,7 +1132,7 @@
 .kickstarter.com
 .tag.navdmp.com
 #
-# BAD DOMAINS
+# BAD TLD
 .adult
 .beer
 .comsex
