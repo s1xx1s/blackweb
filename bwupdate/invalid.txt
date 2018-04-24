@@ -131,7 +131,6 @@
 .escortcom
 .es.kr
 .essay
-.etc.br
 .ethics
 .ex
 .exe
@@ -317,7 +316,6 @@
 .margarine
 ..marok
 .master
-.med.br
 ..meidenstart
 .mht
 .mhtml
@@ -374,7 +372,6 @@
 .ppt
 .pptx
 ..praten
-.pro.br
 .psd
 .psf
 .purchasecom
@@ -471,7 +468,5 @@
 .xp
 .xspf
 .zip
-.zj.cn
-.zJ.cn
 ..zoek
 ..zuid

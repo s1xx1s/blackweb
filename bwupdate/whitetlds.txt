@@ -288,7 +288,6 @@
 .bz
 .bzh
 .ca
-.cab
 .cafe
 .cal
 .call
@@ -2853,7 +2852,6 @@
 .zara
 .zero
 .zhitomir.ua
-.zip
 .zippo
 .zj
 .zj.cn

@@ -102,13 +102,17 @@
 .client.v.dropbox.com
 .cops-jira-dev.corp.dropbox.com
 .d.dropbox.com
+.dev.corp.dropboxusercontent.com
 .dl-debug.dropbox.com
 .dl-debug.x.dropbox.com
+.dl.dev.corp.dropboxusercontent.com
+.dl-doc.dropboxusercontent.com
 .dl.dropbox.com
 .dl.dropboxusercontent.com
 .dmin.paper.corp.dropbox.com
 .dmin-paper.dropbox.com
 .dropbox.com
+.dropboxusercontent.com
 .d.v.dropbox.com
 .eamsblog.dropbox.com
 .eartbeat.corp.dropbox.com
@@ -302,11 +306,6 @@
 .ventbus.dropbox.com
 .wtester.dropbox.com
 .xtractor-livefill.dropbox.com
-.dev.corp.dropboxusercontent.com
-.dl.dev.corp.dropboxusercontent.com
-.dl-doc.dropboxusercontent.com
-.dl.dropboxusercontent.com
-.dropboxusercontent.com
 # icloud
 .00-cache.iwork.icloud.com
 .00-fmip.icloud.com

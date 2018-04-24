@@ -470,7 +470,6 @@
 .zoneiasiteoh.com
 .zophar.net
 .zzbuckettownrock.com
-#
 # SHORTER
 .1link.io
 .1n.pm
@@ -583,7 +582,6 @@
 .smarturl.it
 .snipli.com
 .stmbl.xyz
-.stumbleupon.com
 .sumo.com
 .sumo.ly
 .surl.im
@@ -623,7 +621,6 @@
 .yourls.org
 .zbbx.me
 .zbqhfbetlmni.net
-#
 # MALWARE
 .22apple.com
 .22find.com
@@ -698,7 +695,6 @@
 .www-search.net
 .yahoomaillinks.com
 .yeabests.cc
-#
 # MINING
 .cnhv.co
 .coin-hive.com
@@ -710,7 +706,6 @@
 .minecrunch.co
 .pr0gramm.com
 .reasedoper.pw
-#
 # SOCIAL
 .500px.com
 .ashleymadison.com
@@ -731,7 +726,6 @@
 .dailymotion.com
 .deezer.com
 .del.icio.us
-.deviantart.com
 .douban.com
 .ello.co
 .eyeem.com
@@ -808,10 +802,8 @@
 .vampirefreaks.com
 .viadeo.com
 .viber.com
-.viglink.com
 .vimeo.com
 .vine.co
-.vk.com
 .wayn.com
 .wechat.com
 .weheartit.com
@@ -826,7 +818,6 @@
 .ytimg.com
 .yy.com
 .zorpia.com
-#
 # DOWNLOAD
 .1337x.pl
 .4shared.com
@@ -876,12 +867,10 @@
 .uploadstation.com
 .uptodown.com
 .wupload.com
-#
 # BAD DNS
 .d19ya6dk74n9uf.cloudfront.net
 .kickstarter.com
 .tag.navdmp.com
-#
 # BAD TLD
 .adult
 .beer
@@ -895,7 +884,6 @@
 .webcamsex
 .whoswho
 .xxx
-#
 # VARIOUS
 .3utilities.com
 .able-modem.org
@@ -1136,7 +1124,6 @@
 .stufftoread.com
 .superluchas.com
 .sytes.net
-.taboola.com
 .teads.tv
 .tidaltv.com
 .tubemogul.com
