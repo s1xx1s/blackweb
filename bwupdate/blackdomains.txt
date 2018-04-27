@@ -1,5 +1,14 @@
 .goo.gl
 .googlevideo.com
 .play.google.com
+.youtu.be
+.youtu.be
 .youtube.com
+.youtube.com.br
+.youtube.co.nz
+.youtube.de
+.youtube.es
+.youtube.it
+.youtube.nl
+.youtube.ru
 .ytimg.com

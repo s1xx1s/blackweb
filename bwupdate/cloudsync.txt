@@ -2035,6 +2035,7 @@
 .cms.mega.nz
 .developers.mega.co.nz
 .docs.mega.nz
+.g.api.mega.co.nz
 .g.cdn1.mega.co.nz
 .g.gelb.karere.mega.nz
 .g.xmpp.karere.mega.nz
