@@ -23,6 +23,8 @@
 .ad5.eu
 .ad7.biz
 .adcrun.ch
+.addevweb.com
+.addic7ed.com
 .addthis.com
 .adfe.es
 .adf.ly
@@ -36,6 +38,7 @@
 .affiliateaddgarage.com
 .affiliateframeeaglobal.com
 .agegraphiclitphil.com
+.agencydation.org
 .agkn.com
 .ala-internet.com
 .alliancecanvillasound.com
@@ -67,7 +70,6 @@
 .assistantqrparadisemls.com
 .associationhomesadamcampus.com
 .ating-organic.net
-.atributos.duckdns.org
 .autohideip.com
 .avidly.com
 .awesomehp.com
@@ -87,8 +89,8 @@
 .beeradamnaside.com
 .bellsyscdn.com
 .bestonlinebigdeal.xyz
+.betplay.com.co
 .betternet.co
-.bevanfoun.agencydation.org
 .bidssheetcitizennovo.com
 .binarynerdeastmo.com
 .binbox.io
@@ -123,6 +125,7 @@
 .bubbleexpont.com
 .budurl.co
 .bullhostingprizesim.com
+.bumlam.com
 .buttonoklmclip.com
 .buud.co
 .buzzcrosshotelwee.com
@@ -137,6 +140,7 @@
 .capsulink.com
 .care2.com
 .caringbridge.org
+.casalemedia.com
 .caverosethingsdaily.com
 .cctvhotdeals.com
 .cdduplication.ie
@@ -253,6 +257,7 @@
 .duapps.com
 .dudefinancialjaxea.com
 .dvrcam.info
+.dwin1.com
 .dxmetaarkvegas.com
 .dyfedpowys-helphub.org.uk
 .dynamicdiamondrecpp.com
@@ -282,10 +287,12 @@
 .elitetorrent.biz
 .ello.co
 .emailalohacanvasschools.com
+.engageya.com
 .epicgames.com
 .epictorrents.com
 .ep-surveillance.com
 .equityrentalaglegacy.com
+.erne.co
 .ervebeer.com
 .erveblog.net
 .ervecounterstrike.com
@@ -451,6 +458,7 @@
 .hugemadequietsf.com
 .hyperurl.co
 .hyves.nl
+.i2w.io
 .iatampabuddybanner.com
 .ibibo.com
 .ibmetroleisuretree.com
@@ -475,6 +483,7 @@
 .internetrentgallerycove.com
 .iowabeammysocial.com
 .ipadsharesinvestchic.com
+.ipredictive.com
 .ips.me
 .ipvanish.com
 .iqpkvtcab.info
@@ -504,6 +513,8 @@
 .justproxy.co.uk
 .jwplayer.com
 .kaffnet.com
+.kambicdn.com
+.kambi.com
 .key-find.com
 .kickstarter.com
 .kidxxdrinkfight.com
@@ -594,6 +605,7 @@
 .miniclip.com
 .mixi.jp
 .mjspecialsiwebadvisors.com
+.ml314.com
 .mlbfan.org
 .mlrvyesshield.com
 .mmafan.biz
@@ -640,7 +652,6 @@
 .nanigans.com
 .nanoadvisoravatarinternetmarketing.com
 .nationzoom.com
-.native.ad.newblackage.com
 .naturecggirlsable.com
 .navegasinley.com
 .naver.jp
@@ -710,6 +721,7 @@
 .onthegokingsarticlesgod.com
 .onthewifi.com
 .oogur.com
+.ooyala.com
 .opendiary.com
 .openload.co
 .openvpn.net
@@ -741,7 +753,6 @@
 .placelifestylealwaysnetworks.com
 .placestealthmbsharp.com
 .platinumhideip.com
-.player.ooyala.com
 .plreciperevan.com
 .plusisokioskinfinity.com
 .pmswitchbdviewer.com
@@ -758,6 +769,8 @@
 .portalprogramas.com
 .portlandapplehsdistribution.com
 .portnhchurchfit.com
+.postrelease.com
+.powerlinks.com
 .poxy.info
 .p.pw
 .pq-chat.com
@@ -813,6 +826,7 @@
 .real-hide-ip.com
 .realhotauctionquote.com
 .reasedoper.pw
+.reasonsecurity.com
 .rebrandly.com
 .recordamacirclesoup.com
 .recreviewsowlho.com
@@ -829,6 +843,7 @@
 .reverbnation.com
 .revmetricsevopharma.com
 .revmobads.com
+.rfihub.com
 .rhapsody.com
 .richaudience.com
 .ringfourreportpassion.com
@@ -843,6 +858,7 @@
 .rod.gs
 .roponwithro.com
 .royaldetail.net
+.rubiconproject.com
 .rusbaytapsplus.com
 .rutracker.org
 .rxproxy.com
@@ -939,9 +955,11 @@
 .sr22dwi.com
 .srcultureserveryellow.com
 .ssyoutube.com
+.stealthy.co
 .stickyadstv.com
 .stmbl.xyz
 .stonecrestfurniture.com
+.strossle.it
 .studioshybridiaaudit.com
 .studivz.net
 .studyaway.ru
@@ -986,6 +1004,7 @@
 .texasrayfivemw.com
 .tfbnw.net
 .thebestfurnitureidea.tk
+.thebrighttag.com
 .thepiratebay3.org
 .thepiratebay-proxylist.org
 .therapyggmaxca.com
@@ -1011,7 +1030,6 @@
 .tontbetleftun.com
 .toorgle.com
 .torrentfreak.com
-.torrentom-skachat-be
 .torrents.me
 .torrents-pro.pro
 .torrentz2.eu
@@ -1041,6 +1059,7 @@
 .twitterghnfcbingo.com
 .tyn.ee
 .tysonkirksey.com
+.uach.cl
 .uas2.com
 .uecdn.es
 .ufcfan.org
@@ -1072,7 +1091,6 @@
 .utrasurf.us
 .v9.com
 .vampirefreaks.com
-.vassg141.ocsp.omniroot.com
 .vegasguidessoccermg.com
 .vestacp.com
 .vf1.us
@@ -1089,6 +1107,7 @@
 .viewsshiftcruiseant.com
 .viglink.com
 .vimeo.com
+.vindicosuite.com
 .vine.co
 .virtequip.com
 .visitpyrmontultimo.com.au
@@ -1106,9 +1125,7 @@
 .webdesignthisisundermodel.com
 .webhop.me
 .webproxy.net
-.webproxy.stealthy.co
 .webproxy.to
-.webproxy.uach.cl
 .webssearches.com
 .wechat.com
 .weddingcomicsbenflyer.com
@@ -1157,6 +1174,7 @@
 .yelp.es
 .yftp.biz
 .yftp.org
+.y-medialink.com
 .ynna.biz
 .ynns.com
 .yojobuxkitchen.com

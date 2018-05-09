@@ -29937,6 +29937,7 @@
 .ii2.westeurope.cloudapp.azure.com
 .iic.microsoft.com
 .iidashe.australiasoutheast.cloudapp.azure.com
+.iis.net
 .i.int.msdn.microsoft.com
 .i.int.onlinehelp.microsoft.com
 .i.int.technet.microsoft.com
@@ -33831,6 +33832,7 @@
 .nxtcloud.australiasoutheast.cloudapp.azure.com
 .nxtest.westeurope.cloudapp.azure.com
 .nxtpipeline.partners.extranet.microsoft.com
+.nym1-ib.adnxs.com
 .o15.officeredir.microsoft.com
 .o365discovery.edog.officeapps.live.com
 .o365discovery.officeapps.live.com
@@ -55726,6 +55728,7 @@
 .success.disqus.com
 .uploads.disquscdn.com
 # linkedin
+#.bizographics.com
 .about.linkedin.com
 .acl-bcp.corp.linkedin.com
 .acl.corp.linkedin.com
@@ -65480,6 +65483,7 @@
 .centralops.net
 .certicamara.com
 .cgiar.org
+.checkmal.com
 .chl.nvidia.com
 .cisco.com
 .claro.com.co
@@ -65531,10 +65535,10 @@
 .easylist-downloads.adblockplus.org
 .edatel.net.co
 .elcolombiano.com
+.elcomercio.pe
 .elempleo.com
 .elespectador.com
 .elevenpaths.com
-.elcomercio.pe
 .elheraldo.co
 .elpais.com
 .elpais.com.co
@@ -65557,6 +65561,7 @@
 .file.org
 .finagro.com.co
 .forums.linuxmint.com
+.franzinfra.com
 .freegeoip.net
 .freemaptools.com
 .gateproxy.com

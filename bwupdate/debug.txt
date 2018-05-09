@@ -1,4 +1,5 @@
 .\.adult$
+.\.agencydation.org$
 .\.bankofamerica$
 .\.beer$
 .\.bounceme.net$
@@ -20,6 +21,7 @@
 .\.noip.me$
 .\.no-ip.net$
 .\.onion$
+.\.ooyala.com$
 .\.pointto.us$
 .\.poker$
 .\.porn$
@@ -29,7 +31,9 @@
 .\.serveminecraft.net$
 .\.sex$
 .\.sexy$
+.\.stealthy.co$
 .\.sytes.net$
+.\.uach.cl$
 .\.vodka$
 .\.webcamsex$
 .\.webhop.me$
