@@ -46950,6 +46950,7 @@
 .medellin.gov.co
 .meta.gov.co
 .minagricultura.gov.co
+.visr.minagricultura.gov.co
 .minambiente.gov.co
 .mincultura.gov.co
 .mindefensa.gov.co
@@ -46977,6 +46978,7 @@
 .ramajudicial.gov.co
 .registraduria.gov.co
 .reintegracion.gov.co
+.restituciondetierras.gov.co
 .rni.unidadvictimas.gov.co
 .rtvc.gov.co
 .ruafsvr2.sispro.gov.co
@@ -65610,6 +65612,7 @@
 .linea.ccb.org.co
 .list-manage1.com
 .livechatinc.com
+.mailchimp.com
 .mail.protonmail.com
 .mail.webmin.com
 .mail.yandex.com
@@ -65689,6 +65692,7 @@
 .seg.eltiempo.com
 .sei-consultores.com.co
 .semana.com
+.sendgrid.net
 .serverfault.com
 .services.gfe.nvidia.com
 .servicio.nuevosoi.com.co
