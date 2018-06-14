@@ -212,6 +212,7 @@
 .crop.is
 .cro.pm
 .cross.tv
+.croxyproxy.com
 .customermatds.com
 .cutout.es
 .cxense.com
@@ -233,6 +234,7 @@
 .deezer.com
 .del.icio.us
 .delta-homes.com
+.depositfiles.org
 .developmentfluidramoil.com
 .deviantart.com
 .dft.ba
@@ -341,6 +343,7 @@
 .filtersplusfl.com
 .firekwikcollegemultimedia.com
 .fitshr.com
+.flashtalking.com
 .fleshandbloodoutdoors.com
 .flfan.org
 .flickr.com
@@ -1052,6 +1055,7 @@
 .toddandsarahrainey.com
 .tonosur.net
 .tontbetleftun.com
+.toolur.com
 .toorgle.com
 .torrentfreak.com
 .torrents.me

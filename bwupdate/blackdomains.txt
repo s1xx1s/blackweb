@@ -12,3 +12,4 @@
 .youtube.nl
 .youtube.ru
 .ytimg.com
+.adservice.google.com.co

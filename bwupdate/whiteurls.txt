@@ -39574,6 +39574,7 @@
 .statics.teams.skype.com
 .staticview.microsoft.com
 .staticwww.microsoft.com
+.static-global-s-msn-com.akamaized.net
 .stationq.microsoft.com
 .stats1.update.microsoft.com
 .statsbroadfe2.update.microsoft.com
@@ -65466,6 +65467,7 @@
 .br.nvidia.com
 .bugs.launchpad.net
 .cafesalud.com.co
+.cajacopi.com
 .calculadoralaboral.com.co
 .camarabaq.org.co
 .camaradirecta.com
@@ -65534,6 +65536,7 @@
 .dpsco-my.sharepoint.com
 .dsi.ut-capitole.fr
 .duckduckgo.com
+.dyndns.org
 .easylist-downloads.adblockplus.org
 .edatel.net.co
 .elcolombiano.com
