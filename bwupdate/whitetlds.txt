@@ -1034,7 +1034,7 @@
 .gov.bn
 .gov.bo
 .gov.br
-.gov.br	
+.gov.br
 .gov.bt
 .gov.bw
 .gov.by

@@ -18502,7 +18502,7 @@
 .ytstatic.l.google.com
 .yt-video-upload.l.google.com
 .za.2mdn.net
-# GOOGLE SYNDICATION
+# GSYNDICATION
 #.ad-apac.doubleclick.net
 #.ad.doubleclick.net
 #.ad-g.doubleclick.net
@@ -23724,7 +23724,7 @@
 .bn2.ks.cp.microsoft.com
 .bn2.skype.msnmessenger.msn.com.akadns.net
 .bn2.sls.update.microsoft.com
-.bn2wns1b.wns.windows.com 
+.bn2wns1b.wns.windows.com
 .bn2wns1.wns.windows.com
 .bn3sch020010527.wns.windows.com
 .bn3sch020010528.wns.windows.com
@@ -24140,6 +24140,12 @@
 .c6624b3c-1c6f-4682-ab25-f089d0d974a5.prodbvt.vpn.azure.com
 .c6e8cde8-037b-438f-9f1e-d1afd08ee8c7.vpn.azure.com
 .c6f8f1c8-e59e-4544-b45c-0bfe0f98eb07.vpn.azure.com
+.c-6rtwjumjzx7877x24bbbx2egnslx2ehtr.g00.msn.com
+.c-6rtwjumjzx7877x24bbbx2esfstanx78twx2ent.g00.msn.com
+.c-6rtwjumjzx7877x24fhisx2efiscx78x2ehtr.g00.msn.com
+.c-6rtwjumjzx7877x24tykx2erx78sx2ehtr.g00.msn.com
+.c-6rtwjumjzx7877x24x78yfynh-jsyjwyfnsrjsy-jzx78-x78-rx78s-htrx2.g00.msn.com
+.c-6rtwjumjzx7877x24x78yfynh-lqtgfq-x78-rx78s-htrx2efpfrfnejix2e.g00.msn.com
 .c7316e15-a4fb-4805-a81d-3a2e0d46d772.prodnext.vpn.azure.com
 .c7devazure02.northeurope.cloudapp.azure.com
 .c89e5844-f403-4e96-9898-a2be210425c1.prodbvt.vpn.azure.com
@@ -29937,12 +29943,12 @@
 .ii2.westeurope.cloudapp.azure.com
 .iic.microsoft.com
 .iidashe.australiasoutheast.cloudapp.azure.com
-.iis.net
 .i.int.msdn.microsoft.com
 .i.int.onlinehelp.microsoft.com
 .i.int.technet.microsoft.com
 .i.ip.wut.smartscreen.microsoft.com
 .iisc.canadaeast.cloudapp.azure.com
+.iis.net
 .iistest.westeurope.cloudapp.azure.com
 .ikbcctest.westeurope.cloudapp.azure.com
 .ikgrd-redmine.japaneast.cloudapp.azure.com
@@ -39563,6 +39569,7 @@
 .static2.skype.com
 .static-asm.secure.skypeassets.com
 .static.asm.skype.com
+.static-global-s-msn-com.akamaized.net
 .static-hp-eus.s-msn.com
 .static.ite3.mlx.microsoft.com
 .staticprivacy.microsoft.com
@@ -39574,7 +39581,6 @@
 .statics.teams.skype.com
 .staticview.microsoft.com
 .staticwww.microsoft.com
-.static-global-s-msn-com.akamaized.net
 .stationq.microsoft.com
 .stats1.update.microsoft.com
 .statsbroadfe2.update.microsoft.com
@@ -42664,7 +42670,7 @@
 .zyang.southeastasia.cloudapp.azure.com
 .zyllemalgo.southeastasia.cloudapp.azure.com
 .zz-sia.eastus.cloudapp.azure.com
-# MICROSOFT TELEMETRY
+# MSTELEMETRY
 #.aedmtelemetryreceiver.skype.com
 #.alpha.telemetry.microsoft.com
 #.big.telemetry.microsoft.com
@@ -42699,7 +42705,7 @@
 #.watson.telemetry.microsoft.com
 #.watson.telemetry.microsoft.com.nsatc.net
 #.wes.df.telemetry.microsoft.com
-# OTHERS TELEMETRY
+# MOZILLATELEMETRY
 #.incoming.telemetry.mozilla.org
 # YAHOO
 .ad.yieldmanager.com
@@ -42963,8 +42969,7 @@
 .store.apple.com
 .webcourier.push.apple.com
 .support.apple.com
-# GOVERNMENT
-# gov
+# GOV
 .511wi.gov
 .9-11commission.gov
 .911commission.gov
@@ -46665,7 +46670,7 @@
 .zeroinwisconsin.gov
 .zilwaukeemichigan.gov
 .zionsville-in.gov
-# gov.uk
+# GOV.UK
 .aberdeenshire.gov.uk
 .afbini.gov.uk
 .anglesey.gov.uk
@@ -46841,7 +46846,7 @@
 .winchester.gov.uk
 .windsor.gov.uk
 .york.gov.uk
-# govt.nz
+# GOVT.NZ
 .adhb.govt.nz
 .arphs.govt.nz
 .aucklandcouncil.govt.nz
@@ -46882,7 +46887,7 @@
 .waimatedc.govt.nz
 .waitematadhb.govt.nz
 .worksafe.govt.nz
-# gov.co
+# GOV.CO
 .adres.gov.co
 .altocomisionadoparalapaz.gov.co
 .ane.gov.co
@@ -47025,7 +47030,6 @@
 .yondo.gov.co
 .armada.mil.co
 # EDU
-# .edu
 .aaa.edu
 .aauj.edu
 .abac.edu
@@ -49690,7 +49694,7 @@
 .yu.edu
 .zion.edu
 .zmi.edu
-# .edu.mx
+# EDU.MX
 .academiadespa.edu.mx
 .anahuaccancun.edu.mx
 .anahuacoaxaca.edu.mx
@@ -49945,7 +49949,7 @@
 .uvt.edu.mx
 .ux.edu.mx
 .westhill.edu.mx
-# .edu.au
+# EDU.AU
 .aarnet.edu.au
 .abpat.qld.edu.au
 .acap.edu.au
@@ -50293,7 +50297,7 @@
 .xavier.vic.edu.au
 .yahlps.sa.edu.au
 .yunta.sa.edu.au
-# .edu.ar
+# EDU.AR
 .atlantida.edu.ar
 .aulasucp.edu.ar
 .austral.edu.ar
@@ -50387,7 +50391,7 @@
 .utn.edu.ar
 .vaneduc.edu.ar
 .yeshuruntora.edu.ar
-# .edu.br
+# EDU.BR
 .faculdadecdl.edu.br
 .faculdadesaoluiz.edu.br
 .faionline.edu.br
@@ -50400,7 +50404,7 @@
 .ufam.edu.br
 .ufcg.edu.br
 .utfpr.edu.br
-# .edu.ec
+# EDU.EC
 .aitec.edu.ec
 .calasanzloja.edu.ec
 .ceisu.edu.ec
@@ -50425,7 +50429,7 @@
 .utm.edu.ec
 .utn.edu.ec
 .utpl.edu.ec
-# .edu.co
+# EDU.CO
 .agenciapublicadeempleo.sena.edu.co
 .aldea.cecar.edu.co
 .areandina.edu.co
@@ -50695,7 +50699,7 @@
 .ut.edu.co
 .utp.edu.co
 .uts.edu.co
-# edu (org/net/etc)
+# VARIOUSEDU
 .academiaeset.com
 .app.tutellus.com
 .berlitz.com
@@ -50746,7 +50750,7 @@
 .videosprimaria.unir.net
 .videos.unir.net
 .wa.innova.unir.net
-# BANKS-PAY
+# BANKSPAY
 .1to1.bbva.com
 .53.com
 .acceso.argentina.citigold.citibank.com
@@ -52122,7 +52126,7 @@
 .zenit.bbva.com
 .zionsbank.com
 .zonapagos.com
-# WIKIPEDIA-WIKIMEDIA
+# WIKIPEDIAWIKIMEDIA
 .aa.wikipedia.org
 .ab.wikipedia.org
 .ace.wikipedia.org
@@ -52487,7 +52491,7 @@
 .zh.wikipedia.org
 .zh-yue.wikipedia.org
 .zu.wikipedia.org
-# GNU LINUX
+# GNULINUX
 .agia.fsf.org
 .agn.frontend0.savannah.gnu.org
 .agn.frontend0.sv.gnu.org
@@ -55705,8 +55709,7 @@
 .www-archive-haul.mozilla.org
 .www-archive.mozilla.org
 .xr.mozilla.org
-# SOCIAL
-# disqus
+# DISQUS
 .about.disqus.com
 .a.disquscdn.com
 .blog.disqus.com
@@ -55730,7 +55733,7 @@
 .status.disqus.com
 .success.disqus.com
 .uploads.disquscdn.com
-# linkedin
+# LINKEDIN
 #.bizographics.com
 .about.linkedin.com
 .acl-bcp.corp.linkedin.com
@@ -56999,7 +57002,7 @@
 .zm.linkedin.com
 .zr.linkedin.com
 .zw.linkedin.com
-# whatsapp
+# WHATSAPP
 .autodiscover.whatsapp.com
 .c.whatsapp.net
 .dyn.web.whatsapp.com
@@ -57038,14 +57041,13 @@
 .web.whatsapp.com
 .whatsapp.com
 .whatsapp.net
-# social various
+# SOCIALVARIOUS
 .addthis.com
 .slideshare.net
 .stackexchange.com
 .stackoverflow.com
 .superuser.com
-# BLOG
-# wordpress
+# WORDPRESS
 .blog.wordpress.com
 .files.wordpress.com
 .forums.wordpress.com
@@ -61937,8 +61939,7 @@
 .zathras.us.oracle.com
 .zhadum.us.oracle.com
 .zhadum-webrevs.us.oracle.com
-# DOMAINS
-# namecheap
+# DOMAINS-NAMECHEAP
 .01.files.namecheap.com
 .02.files.namecheap.com
 .aboutme.partners.namecheap.com
@@ -62046,7 +62047,7 @@
 .uptime.sandbox.namecheap.com
 .whoisservice.namecheap.com
 .whoisservice.sandbox.namecheap.com
-# bluehost
+# DOMAINS-BLUEHOST
 .bhstocktest.bluehost.com
 .bluehost.com
 .bluerock1.bluehost.com
@@ -63458,7 +63459,7 @@
 .ru.bluehost.com
 .seo.bluehost.com
 .tr.bluehost.com
-# dreamhost
+# DREAMHOST
 .450.remixer-pr.panel.dreamhost.com
 .affiliates.dreamhost.com
 .api.dreamhost.com
@@ -63534,7 +63535,7 @@
 .uebernet.dreamhost.com
 .webftp.dreamhost.com
 .webmail.dreamhost.com
-# secureserver
+# SECURESERVER
 .4gh.graphs.hosting.secureserver.net
 .a1pwcapture01.prod.a1.secureserver.net
 .a1pwcapture01.prod.ash1.secureserver.net
@@ -64479,7 +64480,7 @@
 .wwdapp2.iad2.secureserver.net
 .wwdapp.iad2.secureserver.net
 .yum.secureserver.net
-# godaddy
+# GODADDY
 .abuse.api.int.godaddy.com
 .access.godaddy.com
 .account.godaddy.com
@@ -65190,9 +65191,9 @@
 .wpps.api.phx3.godaddy.com
 .wrhs.us-east-1.aws.test.godaddy.com
 .wsb.api.godaddy.com
-# others
+# DOMAINS-VARIOUS
 .name.com
-# SERVERS/DNS
+# SERVERS-DNS
 .akamai.com
 .akamaihd.net
 .akamai.net

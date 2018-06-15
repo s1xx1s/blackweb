@@ -1,4 +1,3 @@
-# CLOUDSYNC
 # pcloud
 .pcloud.com
 .pages.pcloud.com
@@ -170,7 +169,6 @@
 .l-web.dropbox.com
 .marketing.dropbox.com
 .m.dropbox.com
-.-misc.dropbox.com
 .moticon.dropbox.com
 .nal.dropbox.com
 .nalmon.sjc.dropbox.com
@@ -2066,7 +2064,7 @@
 .reviews.syncthing.net
 .syncthing.net
 .upgrades.syncthing.net
-# various cloud services
+# various
 .app.mover.io
 .wetransfer.com
 .ox-d.wetransfer.com

@@ -1,4 +1,3 @@
-# REMOTE APPS
 # teamviewer
 .as.teamviewer.com
 .autodiscover.teamviewer.com
@@ -554,4 +553,3 @@
 .voip.join.me
 .webhooks-dev.join.me
 .webhooks.join.me
-# 

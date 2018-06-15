@@ -1106,6 +1106,7 @@
 .unusualperson.com
 .uploadstation.com
 .uptodown.com
+.ur.ly
 .urchintelemetry.com
 .urladda.co
 .urlbaba.com
