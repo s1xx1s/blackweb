@@ -370,7 +370,6 @@
 .clinique
 .clothing
 .cloud
-.club
 .clubmed
 .club.tw
 .cm
@@ -1033,7 +1032,6 @@
 .gov.bm
 .gov.bn
 .gov.bo
-.gov.br
 .gov.br
 .gov.bt
 .gov.bw

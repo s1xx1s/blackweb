@@ -2,7 +2,6 @@
 .googlevideo.com
 .play.google.com
 .youtu.be
-.youtu.be
 .youtube.com
 .youtube.com.br
 .youtube.co.nz

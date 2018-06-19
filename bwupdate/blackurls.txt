@@ -26,7 +26,6 @@
 .adcrun.ch
 .addevweb.com
 .addic7ed.com
-.addthis.com
 .adfe.es
 .adf.ly
 .adkmob.com
@@ -346,7 +345,6 @@
 .flashtalking.com
 .fleshandbloodoutdoors.com
 .flfan.org
-.flickr.com
 .flixster.com
 .flowcentreartistjourney.com
 .flowsilverwillnova.com
@@ -508,7 +506,6 @@
 .itw.me
 .ivpaste.com
 .ixmemberhairproducts.com
-.jamie.cloud.virtualmin.com
 .jans.li
 .j.gs
 .jladmingurusvietnam.com
@@ -563,7 +560,6 @@
 .linkto.net
 .listat.biz
 .liteco-lighting.com
-.livechatinc.com
 .live-k33.com
 .lix.in
 .lknsuite.com
@@ -681,7 +677,6 @@
 .newhometab.com
 .newipnow.com
 .newminersage.com
-.newrelic.com
 .newyorkistportableprecision.com
 .nexage.com
 .nflfan.org
@@ -762,7 +757,6 @@
 .pgchemdocparadise.com
 .pgj.cc
 .pgndvnpod.com
-.photobucket.com
 .pictify.com
 .pingstart.com
 .pinimg.com
@@ -871,7 +865,6 @@
 .ritemagicbuzzhunt.com
 .rivatizehealthinsurance.net
 .rjmetrics.com
-.rlcdn.com
 .rltnsk.biz
 .rmhhtypevip.com
 .roboindustriespotranking.com
@@ -1024,7 +1017,6 @@
 .t.co
 .teads.tv
 .teenplanet.org
-.telegram.org
 .telex.cc
 .telly.com
 .texasrayfivemw.com

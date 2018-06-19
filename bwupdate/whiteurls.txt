@@ -65588,7 +65588,6 @@
 .hp.com
 .http2.mlstatic.com
 .icons.duckduckgo.com
-.idsync.rlcdn.com
 .images.nvidia.com
 .img1.wsimg.com
 .infospyware.com
@@ -65615,7 +65614,6 @@
 .libretamilitar.mil.co
 .linea.ccb.org.co
 .list-manage1.com
-.livechatinc.com
 .mailchimp.com
 .mail.protonmail.com
 .mail.webmin.com
@@ -65643,7 +65641,6 @@
 .myfloridalicense.custhelp.com
 .myslide.es
 .mysteryfcm.co.uk
-.newrelic.com
 .newsroom.intel.cn
 .newsroom.intel.com
 .nfans.geforce.cn
@@ -65685,7 +65682,6 @@
 .reference.com
 .refinancia.com.co
 .research.nvidia.com
-.rlcdn.com
 .runt.com.co
 .satena.com
 .satena.shop
